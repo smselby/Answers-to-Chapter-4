@@ -1,0 +1,4 @@
+supplies = ['wooden stakes', 'garlic', 'silver chain', 'canned sunlight', 'silver bullets']
+for i in range(len(supplies)):
+    print('Index ' + str(i) + ' in supplies is: ' + supplies[i])
+    
