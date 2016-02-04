@@ -1,0 +1,11 @@
+name = 'What ~ The ~ Fuck ~ Are ~ We ~ Doing! ~ '
+for i in name:
+    print('* * * ' + i + ' * * *')
+
+name = 'Ted ~ Blue ~ William ~ Jordan ~ '
+for i in name:
+    print('* ~ * ~ ' + i + ' ~ * ~ *')
+for each in range(2):
+    name = 'We ~ have ~ no ~ idea! ~ '
+for i in name:
+    print('* * * ' + i + ' * * *')
