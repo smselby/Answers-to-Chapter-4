@@ -1,0 +1,8 @@
+lines = ['There once was a ting-a-ma-jigger.', 
+         'What it did we could never quite figure.',
+         'So we removed it\'s cap,',
+         'and it spun and it spat.',
+         'like an uncontrolled brat',
+         'who wants their dessert before dinner.']
+for i in range(len(lines)):
+	print('Index ' + str(i) + ' in lines is: ' + lines[i])
