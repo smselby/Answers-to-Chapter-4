@@ -1,0 +1,28 @@
+import pprint
+
+
+grid = [['.', '.', '.', '.', '.', '.'],
+        ['.', 'O', 'O', '.', '.', '.'],
+        ['O', 'O', 'O', 'O', '.', '.'],
+        ['O', 'O', 'O', 'O', 'O', '.'],
+        ['.', 'O', 'O', 'O', 'O', 'O'],
+        ['O', 'O', 'O', 'O', 'O', '.'],
+        ['O', 'O', 'O', 'O', '.', '.'],
+        ['.', 'O', 'O', '.', '.', '.'],
+        ['.', '.', '.', '.', '.', '.']]
+
+print(grid[8])
+print(grid[7])
+print(grid[6])
+print(grid[5])
+print(grid[4])
+print(grid[3])
+print(grid[2])
+print(grid[1])
+print(grid[0])
+
+pprint.pprint
+
+
+
+
